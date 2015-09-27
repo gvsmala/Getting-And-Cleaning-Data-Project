@@ -1,4 +1,4 @@
-Code Book lists the variables, Activity Lables and measurements used in the script.
+Code Book lists the variables, Activity Labels and measurements used in the script.
 
 Activity Labels 
 

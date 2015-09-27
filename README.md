@@ -8,4 +8,4 @@ The R script run_analysis.R, does the following.
 3. Loads the activity and subject datasets.
 4. Merges the datasets into one dataset.
 5. Converts the activity and subject coumns into factors.
-6. Creates the output called tidy dataset of average(mean) for each variable, subject and activity pair.
+6. Creates the output called tidy.txt with the average(mean) for each variable, subject and activity pair.
